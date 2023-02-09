@@ -1,0 +1,27 @@
+/ ENCRYPT FILE /
+/ THIS FILE IS NEEDED FOR THE DECRYPTION OF CLOUD-BASED ACTIONS /
+/ KEY /
+/ DO NOT REPLICATE /
+/ DO NOT TRY TO HACK THE PROGRAM /
+/ ONCE A HACKED SERVER HAS BEEN FOUND, IT WILL BE SHUT DOWN /
+/ THE USER RESPONSIBLE WILL BE IP BANNED /
+
+/ FOR TURBOWARP TEAM: /
+/ WE ARE WITH THE TOS /
+/ WE ARE JUST GETTING THE IP FOR BANNING USERS /
+/ DO NOT TERMINATE US /
+
+/ THANK YOU FOR YOUR COOPERATIONS /
+/ DO NOT COPY ANY PART OF THE CODE /
+/ GOODBYE. /
+
+key=server.SpleechCorp2D.encryptor.info;
+keyFile=dc.encrypto;
+keyFileLink=*.link;
+IPgot=?;
+HWIDgot=?;
+checkTURBOWARP=function.get.turbowarp.SpleechCorp2D.cloud.server.serverAdress.Default.=.function.get.anti-spoofer.turbowarp.SpleechCorp2D.cloud.server.serverAdress.Not.Non.Root.Default.NonDefault.Adress;
+checkServer=function.get.github.SpleechCorp2D."keyFileLink".link+key.keyFile&checkTURBOWARP;
+link=attachCOMPUTER,attachIP(attachCOMPUTER),getIP(attachIP,IPgot),attachHWID(attachCOMPUTER,attachIP),getHWID(attachHWID,HWIDgot),getServer(IPgot,HWIDgot,serverAdressGot),checkServer(serverAdressGot,function(getServer(link+linkServer)));
+linkServer=link.attachCOMPUTER(function(attached)key,keyFile);
+end
